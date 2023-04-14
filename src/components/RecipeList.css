@@ -1,0 +1,40 @@
+.recipe-list {
+    display: grid;
+    grid-template-columns:  1fr ;
+    padding: 50px;
+    max-width: 1200px;
+    margin: 50px;
+
+}
+
+.recipe-list .card {
+    background: white;
+    color: black;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px green;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.recipe-list .card:hover {
+    transform: roate(60deg);
+}
+
+.recipe-list .card h3 {
+    color: gray;
+    margin-bottom: 6px;
+}
+
+.recipe-list .card p {
+    color: black;
+    font-size: 0.9em
+}
+
+.recipe-list .card div {
+    color: gray;
+    font-size: 0.7em;
+    margin: 20px 0;
+    line-height: 1.5em;
+}

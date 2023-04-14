@@ -1,0 +1,22 @@
+.about {
+    text-align: center;
+    max-width: 1200;
+    margin-bottom: 10px;
+    
+}
+
+.programs .card {
+    background: white;
+    color: black;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px green;
+    transition: all 0.3s ease;
+    position: relative;
+
+}
+.about .heading {
+    margin-left: 10px;
+    padding: 3px;
+}

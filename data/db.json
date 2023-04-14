@@ -1,0 +1,66 @@
+{
+  "recipes": [
+    
+    
+    {
+      "title": "Algebra 1",
+      "ingredients": [
+        "Ch 1. Expressions, Equations, and Negative Numbers- Operations, Variables, Order of Operations",
+        "Ch 2. Properties, Axioms, and Equations- Two step Equations, Applications, and Properties",
+        "Ch3. Polynomials and Radicals- Polynomials and names, Product, Squaring, Factoring, and Radicals",
+        "Ch 4. Quadratic Equations*- Quadratic formulas, Expressions, Completing Squares",
+        "Ch 5. Two Variable Expressions and Equations- Cartesian Coordinate Systems, Graphs, Slopes, Standard Form, Systems of Equations",
+        "Ch. 6 Probability and Inequalities- Counting Techniques, Permutations, Combinations, Inequality",
+        "Ch 7. Functions- Definition of function and solving equations",
+        "Ch 8. Properties of Exponents- Exponents, Prime numbers, Negative and Zero Exponents, Scientific Notation",
+        "Ch 9. More with Polynomials- Advanced Problems",
+        "Ch 10. Rational Algebraic Expressions",
+        "Ch 11. Radical Algebraic Expressions"
+      ],
+      "method": "To become advanced in mathematics, it is critical to understand the fundamentals. Algebra is essential to become successful in future math subjects, and shows up on the SAT many times. Algebra is one of the most important subjects to be successful in the future, and one of the reasons all of our tutors became top percentage scoreres.",
+      "cookingTime": "3 Months",
+      "id": "--XTxMg"
+    },
+    {
+      "title": "Geometry",
+      "ingredients": [
+        "Foundations of Geometry- Points",
+        "Geometric Reasoning- Algebraic and Geometric Proofs",
+        "Parallel and Perpendicular Lines",
+        "Triangle Congruence",
+        "Properties and Attributes of Triangles",
+        "Polygons and Quadrilaterals",
+        "Similarity- Ratios and Proportion",
+        "Right Triangles and Trigonometry",
+        "Extending Perimeter, Circumference, and Area",
+        "Spatial Reasoning",
+        "Circles",
+        "Transformational Geometry"
+      ],
+      "method": "Geometry is a section of math that many struggle with. However, with proper understanding, it can be made very easy. The SAT includes a lot of geometry, and  foundational understanding will be essential to do well in both school and standardized testing",
+      "cookingTime": "~5 Months",
+      "id": "lI_fNyI"
+    },
+
+    {
+      "title": "Algebra 2",
+      "ingredients": [
+        "Ch 1. Arithmetic operations with expressions",
+        "Ch 2. Arithmetic operations on irrational expressions",
+        "Ch3. Advanced topics on numbers",
+        "Ch 4. Complex Numbers",
+        "Ch 5. Factoring Polynomials",
+        "Ch. 6 Polynomial Division",
+        "Ch 7. Graphs of Polynomial",
+        "Ch 8. Rational Exponents and Radicals",
+        "Ch 9. Graphs of Exponential",
+        "Ch 10. Logarithms and Graphs",
+        "Ch 11. Transformation of functions",
+        "Ch 12. Trigonometry"
+      ],
+      "method": "Algebra 2 is the key to advanced mathematics, and you cannot suceed in the SAT or Pre-calculus without algebra 2. This is the most important class before advanced mathematics and is very important. Luckily, we also have the most expereince teaching this subject for the students to suceed.",
+      "cookingTime": "~6 Months",
+      "id": "--XTxg"
+    }
+  ]
+}
